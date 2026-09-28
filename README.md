@@ -1,28 +1,46 @@
-# My Professional Portfolio & Certifications
+# Paul Wagner
 
-Welcome to my portfolio! Here are my professional skill certifications earned on HackerRank.
+Software Engineering Student and Developer based in Austria, focused on building robust backend services, web applications, and desktop software.
+
+---
+
+## Technical Expertise
+
+* **Languages:** C#, JavaScript, SQL, HTML, CSS
+* **Frameworks & Architecture:** ASP.NET Core, SignalR, WPF, MVVM
+* **Infrastructure & Tools:** Linux Ubuntu, Nginx, Docker, Git, Oracle Cloud Infrastructure
 
 ---
 
-## Certifications
+## Professional Certifications
 
-### 1. C# (Basic) - HackerRank
-* **Issued by:** HackerRank[cite: 1]
-* **Earned on:** July 21, 2026[cite: 1]
-* **Credential ID:** `OF63750940BE`[cite: 1]
-* [View C# Certificate PDF](assets/certificates/c_sharp_basic%20certificate.pdf)
+The verified credentials below demonstrate core competencies in software development and data management.
 
-### 2. CSS (Basic) - HackerRank
-* **Issued by:** HackerRank[cite: 2]
-* **Earned on:** July 22, 2026[cite: 2]
-* **Credential ID:** `094E4EFE9D21`[cite: 2]
-* [View CSS Certificate PDF](assets/certificates/css%20certificate.pdf)
+### C Sharp Basic
+* **Issued by:** HackerRank
+* **Date:** July 21, 2026
+* **Credential ID:** `OF63750940BE`
 
-### 3. SQL (Basic) - HackerRank
-* **Issued by:** HackerRank[cite: 3]
-* **Earned on:** July 23, 2026[cite: 3]
-* **Credential ID:** `C72C5F06AF5D`[cite: 3]
-* [View SQL Certificate PDF](assets/certificates/sql_basic%20certificate.pdf)
+[![C Sharp Certificate Preview](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.pdf)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.pdf)
 
 ---
-*Thanks for visiting my profile!*
+
+### CSS Basic
+* **Issued by:** HackerRank
+* **Date:** July 22, 2026
+* **Credential ID:** `094E4EFE9D21`
+
+[![CSS Certificate Preview](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.pdf)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.pdf)
+
+---
+
+### SQL Basic
+* **Issued by:** HackerRank
+* **Date:** July 23, 2026
+* **Credential ID:** `C72C5F06AF5D`
+
+[![SQL Certificate Preview](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.pdf)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.pdf)
+
+---
+
+Thank you for visiting my profile. Feel free to explore my repositories or connect regarding software projects.
