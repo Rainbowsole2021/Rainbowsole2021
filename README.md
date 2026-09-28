@@ -14,14 +14,14 @@ Software Engineering Student and Developer based in Austria, focused on building
 
 ## Professional Certifications
 
-The verified credentials below demonstrate core competencies in software development and data management.
+The verified credentials below demonstrate core competencies in software development and data management. Click any certificate to view the full image.
 
 ### C Sharp Basic
 * **Issued by:** HackerRank
 * **Date:** July 21, 2026
 * **Credential ID:** `OF63750940BE`
 
-[![C Sharp Certificate Preview](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.pdf)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.pdf)
+[![C Sharp Certificate](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.jpg)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ The verified credentials below demonstrate core competencies in software develop
 * **Date:** July 22, 2026
 * **Credential ID:** `094E4EFE9D21`
 
-[![CSS Certificate Preview](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.pdf)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.pdf)
+[![CSS Certificate](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.jpg)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ The verified credentials below demonstrate core competencies in software develop
 * **Date:** July 23, 2026
 * **Credential ID:** `C72C5F06AF5D`
 
-[![SQL Certificate Preview](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.pdf)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.pdf)
+[![SQL Certificate](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.jpg)](https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.jpg)
 
 ---
 
