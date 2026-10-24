@@ -1,281 +1,305 @@
+
 <div align="center">
 
-# <span style="color:#7c5cff;">Paul Wagner</span>
+# Paul Wagner
 
 ### Software Engineering Student & Developer
 
-**Building software with C# · .NET · Unity**
+**C# · .NET · ASP.NET Core · Unity · Software Architecture**
+
+Building software, exploring technologies and turning ideas into working applications.
 
 <br>
 
-<a href="https://cosmicgamecreators.duckdns.org">
-<img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cosmicgamecreators.duckdns.org)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rainbowsole2021)
 
-<a href="https://github.com/Rainbowsole2021">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-## `TECHNOLOGY`
-
-<img src="https://img.shields.io/badge/C%23-7C5CFF?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-7C5CFF?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/SQL-00BFFF?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,100:00BFFF&height=3&section=header" width="100%"/>
 
 </div>
 
----
+## `01 / ABOUT ME`
 
-## `ABOUT ME`
+I'm a **Software Engineering Student based in Austria**, passionate about designing, developing and improving software systems.
 
-I'm a **Software Engineering Student based in Austria**, focused on designing and building software systems.
+My primary focus is **C# and the .NET ecosystem**, including backend services, desktop applications and game development.
 
-My main areas are **C# / .NET**, backend development, desktop applications and Unity development.
-
-I enjoy working on projects where software architecture, clean code and practical functionality come together.
+I enjoy combining clean architecture, efficient algorithms and practical solutions to build reliable software.
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│   SOFTWARE ENGINEERING                             │
-│                                                    │
-│   C# / .NET             Backend & Architecture     │
-│   ASP.NET Core          Web APIs & Services        │
-│   SignalR               Real-time Communication    │
-│   WPF / MVVM            Desktop Applications       │
-│   Unity                 Game Development           │
-│   SQL                   Database Development       │
-│   Linux / Docker        Infrastructure             │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+> DEVELOPMENT AREAS
+
+  Backend Engineering       ASP.NET Core / REST APIs
+  Desktop Development       WPF / MVVM
+  Game Development          Unity / C#
+  Real-Time Systems         SignalR / Networking
+  Database Engineering      SQL / MariaDB
+  Infrastructure            Linux / Docker / Nginx
 ```
 
 ---
 
-## `TECH STACK`
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### `LANGUAGES`
-
-C#
-
-JavaScript
-
-SQL
-
-HTML
-
-CSS
-
-</td>
-
-<td width="33%" align="center">
-
-### `FRAMEWORKS`
-
-.NET
-
-ASP.NET Core
-
-SignalR
-
-WPF
-
-MVVM
-
-</td>
-
-<td width="33%" align="center">
-
-### `TOOLS`
-
-Git
-
-Docker
-
-Nginx
-
-Linux
-
-Oracle Cloud
-
-</td>
-</tr>
-</table>
-
----
-
-## `PROJECTS`
+## `02 / TECHNOLOGY`
 
 <div align="center">
 
-### `BUILDING SOFTWARE`
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,php&theme=dark" />
+
+<br><br>
+
+### Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=dotnet,unity,visualstudio&theme=dark" />
+
+<br><br>
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,linux,nginx,git,github&theme=dark" />
+
+<br><br>
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-7C5CFF?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-7C5CFF?style=flat-square)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat-square)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </div>
 
+---
+
+## `03 / WHAT I BUILD`
+
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### ◈ Backend Systems
+### ◈ Backend Engineering
 
-Building services and APIs with **ASP.NET Core**, .NET and SignalR.
+Developing scalable services and APIs using **C# and ASP.NET Core**.
 
-Focus areas:
-
-* REST APIs
-* Real-time communication
-* Network architecture
-* Database integration
-* Clean architecture
+- RESTful APIs
+- Authentication & JWT
+- Database integration
+- Real-time communication
+- Asynchronous programming
+- Software architecture
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ◈ Desktop Applications
 
-Developing Windows applications using **WPF and MVVM**.
+Building Windows applications with **WPF and .NET**.
 
-Focus areas:
-
-* MVVM architecture
-* Data binding
-* SQLite / SQL
-* Custom UI
-* Application architecture
+- MVVM architecture
+- Data binding
+- Commands & events
+- Custom user interfaces
+- Database connectivity
+- Application design
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### ◈ Unity Development
+### ◈ Game Development
 
-Developing games and interactive applications with **Unity + C#**.
+Creating interactive applications using **Unity and C#**.
 
-Focus areas:
-
-* 2D systems
-* Gameplay programming
-* UI systems
-* Mobile development
-* Custom tools
+- 2D game development
+- Gameplay systems
+- Physics & animations
+- Level editors
+- UI development
+- Mobile applications
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ◈ Web & Infrastructure
 
-Building and hosting web applications and services.
+Developing and deploying web applications and backend infrastructure.
 
-Technologies:
-
-* HTML / CSS / JavaScript
-* PHP
-* Nginx
-* Linux
-* Docker
-* Oracle Cloud
+- HTML / CSS / JavaScript
+- PHP & SQL
+- Linux server administration
+- Nginx configuration
+- Docker containers
+- Cloud hosting
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# `CERTIFICATIONS`
+## `04 / FEATURED WORK`
 
-Professional certifications demonstrating my knowledge in **C#, CSS and SQL**.
+### ◈ Password Manager
 
-<br>
+**C# · .NET · ASP.NET Core · MariaDB · Docker**
 
-## C# Basic
+A password management solution consisting of a command-line application and a backend API.
 
-<img src="https://img.shields.io/badge/HackerRank-C%23%20Basic-7C5CFF?style=for-the-badge&logo=hackerrank&logoColor=white">
+Features include:
 
-**Issued:** July 21, 2026
-**Credential ID:** `OF63750940BE`
+- Secure password generation
+- Password strength analysis
+- Have I Been Pwned integration
+- User authentication using JWT
+- Password vault management
+- REST API endpoints
 
-<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.jpg">
+### ◈ Unity Game Development
 
-<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.jpg" width="650">
+**Unity · C# · 2D Physics**
 
-</a>
+Development of interactive 2D games with custom gameplay systems, animations and level editing tools.
 
-<br>
+### ◈ Web Applications
 
----
+**JavaScript · PHP · MariaDB · Nginx**
 
-## CSS Basic
+Building interactive web applications hosted on Linux infrastructure.
 
-<img src="https://img.shields.io/badge/HackerRank-CSS%20Basic-00BFFF?style=for-the-badge&logo=hackerrank&logoColor=white">
-
-**Issued:** July 22, 2026
-**Credential ID:** `094E4EFE9D21`
-
-<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.jpg">
-
-<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.jpg" width="650">
-
-</a>
-
-<br>
+[![Visit Portfolio](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cosmicgamecreators.duckdns.org)
 
 ---
 
-## SQL Basic
+## `05 / CERTIFICATIONS`
 
-<img src="https://img.shields.io/badge/HackerRank-SQL%20Basic-00BFFF?style=for-the-badge&logo=hackerrank&logoColor=white">
+Certifications and achievements in **software development, web technologies, databases and competitive programming**.
 
-**Issued:** July 23, 2026
-**Credential ID:** `C72C5F06AF5D`
+### HackerRank Certifications
 
-<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.jpg">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.jpg" width="650">
+**C# Basic**
 
+<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/blob/main/assets/certificates/c_sharp_basic%20certificate.jpg">
+<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/c_sharp_basic%20certificate.jpg" width="100%">
 </a>
 
+**July 21, 2026**
+
+`OF63750940BE`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**CSS Basic**
+
+<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/blob/main/assets/certificates/css%20certificate.jpg">
+<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/css%20certificate.jpg" width="100%">
+</a>
+
+**July 22, 2026**
+
+`094E4EFE9D21`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**SQL Basic**
+
+<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/blob/main/assets/certificates/sql_basic%20certificate.jpg">
+<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/sql_basic%20certificate.jpg" width="100%">
+</a>
+
+**July 23, 2026**
+
+`C72C5F06AF5D`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Cloudflight Coding Contest
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**CCC School 42**
+
+<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/blob/main/assets/certificates/ccc_school_42.jpg">
+<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/ccc_school_42.jpg" width="100%">
+</a>
+
+**Cloudflight Coding Contest**
+
+`School Competition`
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**CCC Classic 42**
+
+<a href="https://github.com/Rainbowsole2021/Rainbowsole2021/blob/main/assets/certificates/ccc_classic_42.jpg">
+<img src="https://github.com/Rainbowsole2021/Rainbowsole2021/raw/main/assets/certificates/ccc_classic_42.jpg" width="100%">
+</a>
+
+**Cloudflight Coding Contest**
+
+`Classic Competition`
+
+</td>
+</tr>
+</table>
+
 ---
+
+## `06 / GITHUB ACTIVITY`
 
 <div align="center">
 
-## `CURRENTLY BUILDING`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainbowsole2021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CFF&text_color=FFFFFF" height="170" alt="Most used languages"/>
 
-**Backend systems · .NET applications · Unity projects · Web applications**
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainbowsole2021&theme=tokyonight&hide_border=true&background=0D1117&ring=7C5CFF&fire=00BFFF&currStreakLabel=7C5CFF" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## `07 / CURRENTLY BUILDING`
+
+```text
+[ ACTIVE DEVELOPMENT ]
+
+  > ASP.NET Core backend systems
+  > .NET desktop applications
+  > Unity games and development tools
+  > Web applications and infrastructure
+```
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-7C5CFF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-00BFFF?style=for-the-badge)
+
+<br><br>
+
+### Let's build something great.
+
+[![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cosmicgamecreators.duckdns.org)
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C5CFF?style=for-the-badge">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,100:00BFFF&height=3&section=footer" width="100%"/>
 
-<br><br>
-
-<a href="https://cosmicgamecreators.duckdns.org">
-
-<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white">
-
-</a>
-
-<br><br>
-
-<sub>© 2026 Paul Wagner</sub>
+<sub>© 2026 Paul Wagner · Software Engineering Student & Developer</sub>
 
 </div>
